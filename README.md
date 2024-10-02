@@ -1,18 +1,19 @@
 # Hi there👋
 
-## I am Adnan Hossain
+# I am Adnan Hossain
 
-<!--
-**AdnanHossain-design/AdnanHossain-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+:school_satchel: Junior Computer Science Student @ [**University of Central Florida**][university]<br>
 
-Here are some ideas to get you started:
+## Skills
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=verilog&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=verilog&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="mailto:adnan400283@gmail.com">
+    <img height="32" align="left" alt="Mail" src="img/gmail.png" />
+</a>
+
+<a href="https://www.linkedin.com/in/adnan-hossain-376b8a240/">
+    <img height="32" align="left" alt="LinkedIn" src="img/linkedin.png" />
+</a>
