@@ -3,7 +3,7 @@
 # I am Adnan Hossain
 
 ## About Me
-:school_satchel: Junior Computer Science Student @ [**University of Central Florida**][university]<br>
+:school_satchel: Junior Computer Science Student @ **University of Central Florida**<br>
 
 ## Skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=verilog&logoColor=white)
