@@ -15,8 +15,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=verilog&logoColor=ffdd54)
 
 
-<a href="mailto:adnan400283@gmail.com">
-    <img height="32" align="left" alt="Mail" src="img/gmail.png" />
+<a href="mailto:ahossain03@proton.me">
+    <img height="32" align="left" alt="Mail" src="img/messages-mail-icons-mail-notifications-transparent-background-illustration-free-png.webp" />
 </a>
 
 <a href="https://www.linkedin.com/in/adnan-hossain-376b8a240/">
